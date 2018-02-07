@@ -7,3 +7,7 @@ body{
 	width: 98px; // rebase change 1
 	width: 99px; // master change 1
 }
+
+.test-2{
+	color: #f00; // feature/test_2 change 1
+}
