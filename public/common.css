@@ -7,3 +7,8 @@
 	height: 98px; // rebase change 1
 	height: 99px; // master change 1
 }	
+.master{
+	width: 10px; // [master] change 1
+}
+
+
