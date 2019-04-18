@@ -1,4 +1,4 @@
-body{
+body {
 	width: 93px; // master change 4
 	width: 94px; // rebase change 3
 	width: 95px; // master change 3
@@ -8,6 +8,8 @@ body{
 	width: 99px; // master change 1
 }
 
-.test-2{
+.test-2 {
 	color: #f00; // feature/test_2 change 1
 }
+
+///
